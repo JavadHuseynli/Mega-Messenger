@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492026019893",
+    "firebase_url": "https://koddev-8cf42.firebaseio.com",
+    "project_id": "koddev-8cf42",
+    "storage_bucket": "koddev-8cf42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492026019893:android:7408c2b1885c16018bb17c",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492026019893-4s9km0g4cj5ld1qlkrihaubfvnf5kphr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "3ad35b5e18571e36aee495d6f3f4cec7931caa73"
+          }
+        },
+        {
+          "client_id": "492026019893-hp78iqm4chncgqcejflseps3t3qnd0eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9f8dlzumusM3__2IouoNBuwDWNtJBsXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492026019893-hp78iqm4chncgqcejflseps3t3qnd0eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
